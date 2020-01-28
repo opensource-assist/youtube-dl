@@ -1108,6 +1108,7 @@
  - **YapFiles**
  - **YesJapan**
  - **yinyuetai:video**: 音悦Tai
+ - **YJC**: yjc.ir
  - **Ynet**
  - **YouJizz**
  - **youku**: 优酷
